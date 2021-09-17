@@ -1,0 +1,40 @@
+####################################################################################################
+#                                                                                                  #
+#                          ****    ****  *****  *      ***   *****                                 #
+#                          *   *   *     *      *     *   *  *                                     #
+#                          *   *   *     *      *     *   *  *                                     #
+#                          *   *   ***   *  **  *     *****  *****                                 #
+#                          ****    *     *   *  *     *   *      *                                 #
+#                          *   *   *     *   *  *     *   *      *                                 #
+#                          *    *  ****  *****  ****  *   *  *****                                 #
+#                                                                                                  #
+#                                                                                                  #
+#         1. Supervivencia: Cada individuo o celula que cumpla con el requisito de tener 2         #
+#           o 3 vecinos vivos sobrevive a la siguiente generacion.                                 #
+#                                                                                                  #
+#         2. Fallecimiento: Una celula viva que tenga menos de 2 vecinos fallece por asila-        #
+#           miento o soledad en el siguiente turno. Una celula viva que tenga mas de 3 ve-         #
+#           cinos vivos muere por superpoblacion en el siguiente estado o turno.                   #
+#                                                                                                  #
+#         3. Nacimiento: Si una celda vacia pasa a tener en su vecindad exactamente 3 celulas      #
+#           vivas su estado en el futuro en el siguiente turno sera una celula viva.               #
+#                                                                                                  #
+#                                                                                                  #
+#         Normalmente segun estas reglas se puede llegar a diversas situaciones finales            #
+#         transcurrido un numero determinado de turnos.                                            #
+#                                                                                                  #
+#         - Extincion: Al cabo de un numero finito de generaciones deraparecen todos los           #
+#           miembros de la poblacion o celulas vivas.                                              #
+#                                                                                                  #
+#         - Estabilizacion: Al cabo de un numero finito de generaciones la poblacion queda         #
+#           estabilizada, bien de forma rigida e inamovible, bien de forma oscilante entre         #
+#           dos o mas formas.                                                                      #
+#                                                                                                  #
+#         - Crecimiento constante: La poblacion crece turno tras turno y se mantiene asi un        #
+#           numero infinito de generaciones.                                                       #
+#                                                                                                  #
+#                                Presione $ENTER/ para regresar al menu                              #
+#                                                                                                  #
+#                                                                                                  #
+#                                                                                                  #
+####################################################################################################
