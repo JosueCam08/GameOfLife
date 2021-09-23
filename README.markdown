@@ -27,7 +27,7 @@ Es de suma importancia que todo los archivos antes mencionados esten en la misma
 
 Para compilar el proyecto acceda desde su terminal a la dirreccion donde esta situado los archivos. Seguido de ello, ejecute el siguiente comando:
 
-**`gcc JuegoDeLaVida.c libreria.c -o juego.exe`**
+**`gcc main.c libreria.c -o juego.exe`**
 
 El comandon anterior generará el archivo `juego.exe`.
 
